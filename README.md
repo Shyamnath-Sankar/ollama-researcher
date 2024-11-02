@@ -67,29 +67,4 @@ https://github.com/user-attachments/assets/d481428a-2f8e-421c-ae15-35d362080557
 
 Contributions are welcome! Please feel free to submit pull requests or issues.
 
-## License
 
-# Genrec Community License
-
-## License Terms
-
-1. **Use of the Repository**  
-   You are free to use, copy, modify, and distribute this repository for both commercial and private purposes, provided that you give appropriate credit to the Genrec Community.
-
-2. **Attribution**  
-   Any public use of the repository (including but not limited to derivative works, distribution, and publications) must include a clear acknowledgment of the Genrec Community as the original provider of this work.
-
-3. **No Warranty**  
-   The repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-4. **Limitation of Liability**  
-   In no event shall the Genrec Community be liable for any damages arising from the use of this repository.
-
-5. **Acceptance**  
-   By using this repository, you agree to comply with these terms.
-
----
-
-**Genrec Community**  
-[ai.genrec@gmail.com]  
-[02-11-2024]
