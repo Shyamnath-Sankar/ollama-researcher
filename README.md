@@ -7,6 +7,13 @@ This project is an AI-powered research tool that helps you quickly gather and sy
 
 This project is an internet research assistant built using Python, Streamlit, and Swarm AI. It allows users to enter a search query and receive a polished, publication-ready article based on the latest web search results.
 
+
+## Demo
+
+
+https://github.com/user-attachments/assets/d481428a-2f8e-421c-ae15-35d362080557
+
+
 ## Why Ollama Researcher
   * Objective conclusions for manual research can take weeks, requiring vast resources and time.
   *  LLMs trained on outdated information can hallucinate, becoming irrelevant for current research tasks.
@@ -56,10 +63,7 @@ pip install -r requirement.txt
 streamlit run app.py
 ```
 
-## Demo
 
-
-https://github.com/user-attachments/assets/d481428a-2f8e-421c-ae15-35d362080557
 
 
 
